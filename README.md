@@ -35,8 +35,14 @@
 
 
 ### **Networking**
-![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge)
+- **Network Devices:** Switches, Routers, Hubs  
+- **Switching Concepts:** VLANs, Trunking (DTP), VLAN Routing  
+- **Routing & Protocols:** Static Routing, RIP, OSPF (basic)  
+- **Redundancy Protocols:** HSRP, VRRP, GLBP  
+- **Network Troubleshooting:** ping, traceroute, show commands  
+- **Network Simulation Tools:** Packet Tracer, GNS3  
+- **Protocols & Services:** DHCP, DNS, STP, EtherChannel  
+- **Configuration & Management:** Cisco IOS, Network CLI commands
 
 ### **Programming & Scripting**
 ![Python](https://skillicons.dev/icons?i=python)
@@ -54,7 +60,6 @@
 ---
 
 ## ⭐ Featured Projects
-*(Les liens seront ajoutés après création des dépôts GitHub)*
 
 - **Password Generator (Python)** – Simple tool that generates secure random passwords.  
 - **Password Generator Web (HTML/CSS/JS)** – Modern web-based password generator.  
