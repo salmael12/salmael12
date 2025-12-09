@@ -64,7 +64,7 @@
 - **Password Generator (Python)** – Simple tool that generates secure random passwords.  
 - **Password Generator Web (HTML/CSS/JS)** – Modern web-based password generator.  
 - **Windows Server Lab (AD, DNS, DHCP, GPO)** – Full enterprise lab setup.  
-- **Network Lab (VLAN, STP, HSRP, DHCP)** – Packet Tracer / GNS3 network configuration.
+- **Network Lab (VLAN, STP, HSRP, DHCP)** – Packet Tracer .
 
 ---
 
@@ -78,7 +78,7 @@
 
 ## ✨ About Me
 💡 Always exploring new technologies  
-📘 Currently learning **Cybersecurity & SDN**  
+📘 Currently learning **Cybersecurity**  
 🎯 Goal: Become a **Network & Cybersecurity Engineer**  
 
 ---
