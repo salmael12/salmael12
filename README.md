@@ -10,9 +10,9 @@
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](your-linkedin-url)
-[![GitHub](https://skillicons.dev/icons?i=github)](your-github-url)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/salma-elfarouki/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/salma-elfarouki)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:salma.elfarouki.hotmail@gmail.com)
 [![Portfolio](https://img.icons8.com/ios-filled/50/000000/portfolio.png)](https://mon-portfolio-salma-elfarouki.my.canva.site/salma-el-farouki)
 
 ---
@@ -28,14 +28,15 @@
 ![Bash](https://skillicons.dev/icons?i=bash)
 
 ### **Virtualization & Cloud**
-![VMware](https://skillicons.dev/icons?i=vmware)
-![VirtualBox](https://skillicons.dev/icons?i=vbox)
-![Azure](https://skillicons.dev/icons?i=azure)
-![AWS](https://skillicons.dev/icons?i=aws)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ### **Networking**
-![Cisco](https://skillicons.dev/icons?i=cisco)
-![Networking](https://img.shields.io/badge/Networking-%23007ACC.svg?style=for-the-badge&logo=internet-computer&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge)
 
 ### **Programming & Scripting**
 ![Python](https://skillicons.dev/icons?i=python)
@@ -48,36 +49,25 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![Vscode](https://skillicons.dev/icons?i=vscode)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
 ## ⭐ Featured Projects
+*(Les liens seront ajoutés après création des dépôts GitHub)*
 
-### 🔐 **Password Generator (Python)**
-Simple tool that generates secure random passwords using Python.  
-👉 *Includes letters, numbers, and special characters.*
-
-### 🎨 **Password Generator Web (HTML/CSS/JS)**
-A clean and modern web-based password generator with a responsive interface.
-
-### 🖥️ **Windows Server Lab (AD, DNS, DHCP, GPO)**
-Full lab setup for enterprise infrastructure:  
-- Domain Controller  
-- Active Directory  
-- DNS & DHCP  
-- Group Policies  
-
-### 🌐 **Network Lab (VLAN, STP, HSRP, DHCP)**
-Packet Tracer / GNS3 network configuration covering:  
-VLANs, Inter-VLAN routing, STP, Redundancy Protocols, DHCP.
+- **Password Generator (Python)** – Simple tool that generates secure random passwords.  
+- **Password Generator Web (HTML/CSS/JS)** – Modern web-based password generator.  
+- **Windows Server Lab (AD, DNS, DHCP, GPO)** – Full enterprise lab setup.  
+- **Network Lab (VLAN, STP, HSRP, DHCP)** – Packet Tracer / GNS3 network configuration.
 
 ---
 
-## 📊 GitHub Stats
-![Salma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+## 🏅 Certifications
+![CCNA](https://img.shields.io/badge/CCNA-0078D7?style=for-the-badge)
+![CyberOps Associate](https://img.shields.io/badge/CyberOps-FF0000?style=for-the-badge)
+![DevNet Associate](https://img.shields.io/badge/DevNet-5391FE?style=for-the-badge)
+![Python Essentials](https://img.shields.io/badge/Python_Essentials-FFD43B?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
