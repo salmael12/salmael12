@@ -10,7 +10,7 @@
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/salma-elfarouki/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/salma-el-farouki-8679a8150/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/salma-elfarouki)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:salma.elfarouki.hotmail@gmail.com)
 [![Portfolio](https://img.icons8.com/ios-filled/50/000000/portfolio.png)](https://mon-portfolio-salma-elfarouki.my.canva.site/salma-el-farouki)
