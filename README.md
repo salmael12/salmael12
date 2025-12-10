@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Salma El Farouki**
+# 👋 Hi there, I'm **Salma **
 
 **Digital Infrastructure Technician – Systems & Networks**  
 
@@ -11,7 +11,6 @@
 ## 🔗 Connect with Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/salma-el-farouki-8679a8150/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:salma.elfarouki.hotmail@gmail.com)
-[![Portfolio](https://img.icons8.com/ios-filled/50/000000/portfolio.png)](https://mon-portfolio-salma-elfarouki.my.canva.site/salma-el-farouki)
 
 ---
 
