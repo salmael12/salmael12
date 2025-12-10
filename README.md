@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Salma **
+# 👋 Hi there, I'm **Salma**
 
 **Digital Infrastructure Technician – Systems & Networks**  
 
