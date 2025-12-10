@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm **Salma El Farouki**
 
 **Digital Infrastructure Technician – Systems & Networks**  
-📍 *Fès, Morocco*
 
 🔹 Passionate about **IT infrastructure, networking, and cybersecurity**  
 🔹 Experienced with **Windows Server, Linux, virtualization, and network services**  
